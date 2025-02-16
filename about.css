@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Oswald:wght@200..700&family=Protest+Revolution&family=Rubik+Glitch&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Fjalla+One&family=Oswald:wght@200..700&family=Protest+Revolution&family=Rubik+Glitch&display=swap');
+.ab1{
+position: relative;
+background-color: #fdf5e7;
+margin-top: 5%;
+}
+.ab5 {
+    font-family: "Anton", serif;
+    font-weight: 100;
+    font-style: normal;
+    color: #2dbba4;
+    font-size: 20px;
+    line-height: 44px;
+    letter-spacing: 1px;
+    margin-left:1000px;
+    margin-top: -520px;
+  }
+.ab2{
+    
+    font-size: 50px;
+    font-family:"Fjalla One", serif;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 3%;
+    color: #222;
+    letter-spacing: 0.5px;
+
+}
+.ab3{
+    font-size: 200%;
+    font-family: "Anton", serif;
+    font-style: normal;
+    text-transform: uppercase;
+    text-align:left;
+    margin-top: 0px;
+    color: #c02080;
+    letter-spacing: 0.5px;
+    padding-top: 80px;
+    padding-left: 80px;
+}
+    
+.icon{
+     width: 500px;
+     margin-left: 510px;}
+.ab4{  
+    font-family: 'Open Sans';
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 41px;
+    text-align: justify;
+    padding-left: 80px;
+    width:900px ;}
+    .ab6{  
+        font-family: 'Open Sans';
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 41px;
+        text-align: justify;
+        width:300px ;
+        margin-left:1000px;}
+        .ic1{
+            width: 250px;
+            margin-left:100px;
+            
+        }
+        .ic2{
+            width: 350px;
+            margin-left:50px;
+            
+        }
+        .ic3{
+            width: 250px;
+            margin-top: -5%;
+            margin-left:100px;
+            
+        }
+        .ic11{
+            padding-left: 30px;
+            padding-top: 30px;
+            text-align: center;
+            font-weight: 700;
+            font-size: 24px;
+              margin: 0;
+              font-family: 'Paytone One', serif;
+              margin-bottom: 20px;
+              color: #323232;
+              text-transform: uppercase;
+              letter-spacing: 0.3px;
+        }
+        .ic12{
+            padding-left: 20px;
+            padding-right: 20px;
+            font-family: 'Open Sans';
+            font-size: 15px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 30px;
+            text-align: justify;
+            font-family: 'Paytone One', serif;
+          }
+          .cr12{
+            border-radius: 3%;
+        
+          }
+          .cr1{
+            height: 700px;
+          }
+          .cr11{
+            margin-top: 30px;
+          }

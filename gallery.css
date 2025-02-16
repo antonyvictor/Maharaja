@@ -1,0 +1,37 @@
+.g1{
+    position: relative;
+background-color: #fdf5e7;}
+.g2{
+    font-size: 50px;
+    font-family:"Fjalla One", serif;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 5%;
+    color: #222;
+    letter-spacing: 0.5px;
+}
+.g11{
+    border-radius: 3%;
+}
+.g12{
+    border-radius: 3%;
+    width: 500px;
+}
+.g13{
+    border-radius: 3%;
+}
+.g14{
+    border-radius: 3%;
+}
+.g15{
+    border-radius: 3%;
+    width: 300px;
+}
+.g16{
+    border-radius: 3%;
+}
+.g17{
+    border-radius: 3%;
+    width: 650px;
+    height: 600px;
+}

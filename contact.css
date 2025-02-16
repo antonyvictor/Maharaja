@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Fjalla+One&family=Lilita+One&family=Oswald:wght@200..700&family=Protest+Revolution&family=Rubik+Glitch&display=swap');
+.con1{
+    font-size: 50px;
+    font-family:"Fjalla One", serif;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 5%;
+    color: #222;
+    letter-spacing: 0.5px;
+}
+.icon1{
+    width: 500px;
+     margin-left: 510px;
+  }
+  .con11 {
+    font-family: "Lilita One", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+  }
+  .con12{
+    text-align: center;
+  }
+
+  .phone{
+    color: #c02080;
+  }
+
+  .form-container {
+    width: 400px;
+    margin: auto;
+    font-family: Arial, sans-serif;
+  }
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 10px;
+  }
+  input, select {
+    padding: 8px;
+    border: 3px dotted#2dbba4;
+    border-radius: 5px;
+  }
+  .captcha-box {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .captcha {
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #f4f4f4;
+    padding: 8px;
+    border-radius: 5px;
+  }
+  button {
+    background-color: #d11a7d;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin-left:200px ;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 100px;
+  }
+  .message {
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  .con2{
+    height: 730px;
+    
+  }
+  .con21{
+    display: grid;
+    place-items: center;
+  }
+  .f2{
+    width: 500px;
+  }
